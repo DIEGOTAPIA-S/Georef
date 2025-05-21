@@ -1,4 +1,3 @@
-# Archivo requirements.txt ejemplo:
 streamlit
 folium
 streamlit-folium
@@ -8,3 +7,4 @@ shapely
 fpdf2
 matplotlib
 streamlit-searchbox
+unicodedata2
